@@ -17,6 +17,7 @@
 .bg-color-skills {
     background-color: #ffffff;
 }
+div#map {min-height: 360px;}
 
 .bg-color-work-history {
     background-color: #9b59b6;
